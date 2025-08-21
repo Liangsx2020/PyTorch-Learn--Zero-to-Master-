@@ -223,3 +223,10 @@ pyrightconfig.json
 # PyTorch/ML models and large data
 *.pth
 *.pt
+
+# 忽略所有 data 目录
+data/
+*/data/
+
+# 忽略所有以 .data 或类似命名的文件/文件夹
+*.data
