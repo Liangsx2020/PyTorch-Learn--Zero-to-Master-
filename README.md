@@ -33,7 +33,7 @@ We strongly recommend using a Python virtual environment to manage project depen
 
 * **Create virtual environment and install dependencies** (recommended name: `pytorch_ZTM`):
     ```bash
-    conda create -n pytorch_ZTM python=3.9.23
+    conda create -n pytorch_ZTM python=3.11
 
     conda activate pytorch_ZTM
 
